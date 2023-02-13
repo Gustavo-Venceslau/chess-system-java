@@ -2,7 +2,6 @@ package ChessPieces;
 
 import boardGame.Board;
 import boardGame.Position;
-import chess.ChessMatch;
 import chess.ChessPiece;
 import chess.Color;
 
